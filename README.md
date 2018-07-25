@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bonjour je suis LUTlp;
+Voici le blog qui permet de poster des articles, y associer des catégories et chaque user peut le commenter !
 
-Things you may want to cover:
+Le programme utilise rails avec la version de ruby 2.5.1 may want to cover:
 
-* Ruby version
+Toutes les gems sont dans Gemfile, n'hésite pas à consulter !
 
-* System dependencies
+*
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pour lire la base de données, utilise SqlSutio par exemple, ou tout autre logiciel adapté.
