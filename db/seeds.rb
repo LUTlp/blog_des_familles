@@ -8,6 +8,9 @@
 #10.times do |index|
 #  user = User.create(first_name: "Prénom#{index}", last_name: "Nom#{index}", email: "email#{index}@example.com")
 #end
+15.times do |index|
+  user = User.create(first_name: "prénom#{index}", last_name: "nom#{index}", email: "#{index}@email.com")
+end
 
 10.times do |index|
   post = Post.create(title: "Nom#{index}", content: "#{index}blabla", user_id: 2, categorie_id: 2) #index on peu mettre le numéro de l'user si on veur
